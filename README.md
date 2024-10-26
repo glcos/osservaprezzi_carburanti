@@ -5,5 +5,5 @@ Richiede la libreria `miselib` disponibile qui https://github.com/glcos/mise
 
 Rende disponibili i prezzi dei carburanti delle stazioni di servizio italiane in Home assistant
 
-<img alt="ha-capture" src="https://github.com/user-attachments/assets/03405286-12a8-4c78-846a-5af337cf3740">
+<img width="257" alt="ha-capture" src="https://github.com/user-attachments/assets/bcc7e5c6-8694-4c15-bfb0-a6ba453c2d72">
 
