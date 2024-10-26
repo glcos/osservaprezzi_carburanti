@@ -1,0 +1,7 @@
+hello_world:
+  module: hello
+  class: HelloWorld
+
+osservaprezzi_carburanti:
+  module: carburanti
+  class: Carburanti
