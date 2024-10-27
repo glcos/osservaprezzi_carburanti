@@ -1,0 +1,2 @@
+Il nome file delle bandiere deve essere generato con l'utility flagutil.py
+La bandiera deve essere un file png di dimensione 512x512 pixel con sfondo trasparente
